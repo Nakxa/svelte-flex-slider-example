@@ -2,6 +2,8 @@
 
 **Svelte Flex Slider** is a versatile slider library for Svelte, allowing you to create beautiful and responsive image sliders, carousels, testimonial sliders, product showcases, and news tickers with ease.
 
+![Svelte Flex Slider Demo](./svelte-flex-slider.webp)
+
 ## Table of Contents
 
 - [Installation](#installation)
